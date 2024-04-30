@@ -1,4 +1,4 @@
-# SLMs paper list
+# paper list
 
 ## Fine-tuning vs RAG, Knowledge Injection
 + [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934)
