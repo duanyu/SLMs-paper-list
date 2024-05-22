@@ -9,15 +9,13 @@ These papers discuss the methods of knowledge injection:
 + [Adapting Large Language Models via Reading Comprehension](https://arxiv.org/pdf/2309.09530)
 
 ## Fine-tuning SLMs for specific tasks/domain
-Again, SLMs are very suitable for speific domain with fine-tuning, these papers give you some examples:
 + [RAD-PHI2: INSTRUCTION TUNING PHI-2 FOR RADIOLOGY](https://arxiv.org/pdf/2403.09725)
 
 ## Architecture
-SLMs are not only the smaller version of LLMs, they could have different architecture:
+Different architecture or SLMs:
 + [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/pdf/2402.14905)
 
 ## Agent
-Yes, SLMs are very suitable for speific domain with fine-tuning, and agent is a very interesting and useful task:
 + [Octopus: On-device language model for function calling of software APIs](https://arxiv.org/pdf/2404.01549)
 + [Octopus v2: On-device language model for super agent](https://arxiv.org/pdf/2404.01744)
 + [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/pdf/2404.11459)
