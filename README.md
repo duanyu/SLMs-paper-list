@@ -34,6 +34,6 @@ Different architecture or SLMs:
 Knowledge distillation is great:
 + [Gemma2](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), which use knowledge distillation in PT(Pre-Training) and IT(Instruction-Tuned) stage.
 
-More data and longer training is goog(but only with log scale):
+More data and longer training is good(but only with log scale):
 + [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395), which uses Warmup-Stable-Decay(WSD) lr scheduler for longer training time.
 + [Index-1.9B](https://github.com/bilibili/Index-1.9B/blob/main/Index-1.9B%20%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf), which also use WSD.
