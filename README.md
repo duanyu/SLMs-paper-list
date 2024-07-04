@@ -5,8 +5,9 @@ Pre-training loss is the key factor for downstream tasks and emergent ablities, 
 + [Understanding Emergent Abilities of Language Models from the Loss Perspective](https://arxiv.org/abs/2403.15796)
 
 ## Finetuning
+SLMs are very suitable for finetuning to specific tasks and domains.
+
 ### Agent
-SLMs are very suitable for agent:
 + [Octopus: On-device language model for function calling of software APIs](https://arxiv.org/pdf/2404.01549)
 + [Octopus v2: On-device language model for super agent](https://arxiv.org/pdf/2404.01744)
 + [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/pdf/2404.11459)
