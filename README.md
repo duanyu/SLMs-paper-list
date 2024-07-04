@@ -17,7 +17,7 @@ SLMs are very suitable for finetuning to specific tasks and domains.
 + [RAD-PHI2: INSTRUCTION TUNING PHI-2 FOR RADIOLOGY](https://arxiv.org/pdf/2403.09725)
 
 ### Knowledge Injection
-Injecting knowledge is crucial, use RAG or FT? That's a question:
+Injecting knowledge is crucial. Use RAG or FT? That's a question:
 + [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/pdf/2312.05934)
 + [INJECTING NEW KNOWLEDGE INTO LARGE LANGUAGE MODELS VIA SUPERVISED FINE-TUNING](https://arxiv.org/pdf/2404.00213)
 + [Adapting Large Language Models via Reading Comprehension](https://arxiv.org/pdf/2309.09530)
