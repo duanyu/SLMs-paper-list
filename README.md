@@ -39,5 +39,5 @@ More data and longer training is good(but only with log scale):
 + [Index-1.9B](https://github.com/bilibili/Index-1.9B/blob/main/Index-1.9B%20%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf), which also use WSD.
 
 ## Reasoning Machine
-More inference-time compute benefit LLMs, so it's a natural question: `can we use cheaper and faster SLMs instead of LLMs to do long-time reasoning?`
+More inference-time compute benefit LLMs, so it's a natural question: `can we use cheaper and faster SLMs instead of LLMs to do long-time reasoning in inference time?`
 
